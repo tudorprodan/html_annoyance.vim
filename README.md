@@ -4,7 +4,7 @@ This is an extra `HTML` syntax file which fixes one of vim's annoyances:
 
 It removes the underlining from leading and trailing whitespace in `<A>` tags.
 
-==Preview==
+![Preview](//raw.github.com/tudorprodan/html_annoyance.vim/master/preview.png)
 
 ## Warning
 
