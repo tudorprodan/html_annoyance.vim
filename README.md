@@ -23,3 +23,5 @@ Place the content of this repository in a new bundle.
 \-or-  
 `git submodule add <this_repo> ~/.vim/bundle/html_annoyance``
 
+
+#### - Tudor Prodan
