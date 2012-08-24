@@ -19,5 +19,7 @@ Copy `after/syntax/html.vim` to `~/.vim/after/syntax/html.vim`.
 ## Using pathogen
 
 Place the content of this repository in a new bundle.  
-`git clone <this_repository> ~/.vim/bundle/html_annoyance/`
+`git clone <this_repository> ~/.vim/bundle/html_annoyance`  
+\-or-  
+`git submodule add <this_repo> ~/.vim/bundle/html_annoyance``
 
