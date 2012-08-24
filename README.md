@@ -6,11 +6,6 @@ It removes the underlining from leading and trailing whitespace in `<A>` tags.
 
 ![Preview](//raw.github.com/tudorprodan/html_annoyance.vim/master/preview.png)
 
-## Warning
-
-This works, and due to the fact that it's really small you can tell that it can't mess up too many things.
-
-However, this is me learning vim syntax files. So if you see something that's not done right, please open an issue on GitHub about it, I'd love to hear what I could have done better.
 
 ## Manual installation
 
@@ -23,5 +18,9 @@ Place the content of this repository in a new bundle.
 \-or-  
 `git submodule add <this_repo> ~/.vim/bundle/html_annoyance``
 
+## Info
+
+This is me learning vim syntax files.  
+So if you see something that's not done right, please open an issue on GitHub about it, I'd love to hear what I could have done better.
 
 #### - Tudor Prodan
