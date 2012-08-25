@@ -1,3 +1,5 @@
+" Version: 1.0
+
 if !exists("html_no_rendering")
     syn match htmlLinkLeadingWhitespace "^\s\+" contained
     syn match htmlLinkTrailingWhitespace "\s\+$" contained
